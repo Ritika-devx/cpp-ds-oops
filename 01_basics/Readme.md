@@ -1,4 +1,4 @@
-# 00_basics – C++ Fundamentals
+# 01_basics – C++ Fundamentals
 
 This folder contains beginner-level C++ programs such as:
 
