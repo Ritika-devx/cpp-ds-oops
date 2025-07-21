@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std;0
 int main(){
     int x;
     cout<<"Enter number: ";
